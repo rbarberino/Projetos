@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+}
+
+
+body{
+    background: darkgoldenrod;
+    font: normal 18pt Poppins, sans-serif;
+}
+
+#titulo{
+    text-align: center;
+    color: white;
+    margin-top: 4em;
+    font-size: 50px;
+}
+
+.campo{
+    color: white;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+}
+
+.botao{
+    width: 6%;
+    padding: 0.2em 0.6em;
+
+}
+
+.botao:hover{
+    cursor: pointer;
+}
